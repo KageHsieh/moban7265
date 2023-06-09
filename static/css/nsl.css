@@ -1,0 +1,268 @@
+.header-margin {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.search-nav {
+    height: 28px
+}
+
+.search-bar {
+    background-color: transparent;
+    border: whitesmoke solid 1px;
+    color: white;
+}
+
+.search-bar:focus {
+    background-color: transparent;
+    border: none;
+    box-shadow: none
+}
+
+
+.search-icon {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+.languages-select {
+    width: 600px;
+    margin-left: auto;
+    margin-right: 200px;
+}
+
+.languages-link {
+    margin-right: 50px;
+}
+
+.languages-link-text {
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+.testi-usernames {
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.watch-more {
+    position: absolute;
+    right: 70px;
+}
+
+.teacher-apply {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.apply-teacher-btn {
+    position: relative;
+    top: 100px;
+    ;
+}
+
+.border-btn-apply {
+    border: #d4b068 solid 1px;
+}
+
+.title-pic {
+    width: 60px;
+}
+
+.margin10px {
+    margin: 10px 10px 10px 10px;
+}
+
+.display-inline {
+    display: inline
+}
+
+.p-title {
+    font-size: 18px;
+    color: black;
+    float: right;
+}
+
+.font30px {
+    font-size: 30px;
+}
+
+.font20px {
+    font-size: 20px;
+}
+
+.font10px {
+    font-size: 10px;
+}
+
+.fontCenter {
+    text-align: center;
+
+}
+
+.font-right {
+    text-align: right;
+}
+
+.font-left {
+    text-align: left;
+}
+
+.fontffffff {
+    color: #ffffff;
+}
+
+.stage {
+    margin-bottom: 10px;
+}
+
+.border-left {
+    border-left: #ffae3d;
+    border-left-width: 20px;
+    border-left-style: solid;
+}
+
+.BorderBottom {
+    border-Bottom: #ffae3d;
+    border-Bottom-width: 5px;
+    border-Bottom-style: solid;
+}
+
+.margin-reset {
+    margin: 0;
+    padding: 0;
+}
+
+.mgarmin-RL {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.padding-RL {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.mgarmin-TB {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.padding-TB {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mgarmin10px {
+    margin: 10px, 10px, 10px, 10px;
+}
+
+.tag-text {
+    font-size: 10px;
+    color: #919191;
+}
+
+.img-radius {
+    border-radius: 5px
+}
+
+.p-text {
+    margin-top: 10px
+}
+
+.block-padding{
+padding-top: 30px;
+}
+
+.float-right{
+    float: right;
+}
+
+.font-line-height{
+    line-height:20px;
+}
+
+.buy-button {
+    margin: 0px;
+    padding: 20px;
+    height: 60px;
+    width: 480px;
+    line-height: 4px;
+    border-radius: 10px;
+    background: #ffae3d;
+    position: fixed;
+    right: 350px;
+    top: 230px;
+    float: left;
+    -webkit-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
+    box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.5);
+  }
+
+.buy-button2 {
+    margin: 0px;
+    padding: 20px;
+    height: 60px;
+    width: 480px;
+    line-height: 4px;
+    border-radius: 10px;
+    background: #ffae3d;
+    position: fixed;
+    right: 350px;
+    top: 300px;
+    float: left;
+    -webkit-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
+    box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.5);
+  }
+  
+  .buy-button3 {
+    margin: 0px;
+    padding: 20px;
+    height: 60px;
+    width: 480px;
+    line-height: 4px;
+    border-radius: 10px;
+    background: #ffae3d;
+    position: fixed;
+    right: 350px;
+    top: 370px;
+    float: left;
+    -webkit-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
+    box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.5);
+  }
+
+  .con-teacher {
+    opacity: 0.3;
+    margin: 0px;
+    padding: 20px;
+    height: 375px;
+    width: 480px;
+    line-height: 4px;
+    border-radius: 10px;
+    background: #9b9b9b;
+    position: fixed;
+    right: 350px;
+    top: 440px;
+    float: left;
+    -webkit-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
+    box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.5);
+  
+    color: ffffff;
+  }
+
+  .banner-height{
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .banner-box{
+    height:200px;
+    overflow: hidden;
+  }
